@@ -17,6 +17,7 @@ The lab demonstrates how defenders evolve detections from **simple indicators** 
 ---
 
 ## 1️⃣ Blocking `sample1.exe` – Hash-Based Detection
+![sample1.exe](images/image1.jpeg)
 
 ### 🔍 Analysis
 The malware sample `sample1.exe` was submitted to the **Malware Sandbox**, where file hashes were identified.
