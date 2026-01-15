@@ -1,4 +1,4 @@
-# TryHackMe “Summit” Walkthrough  
+# TryHackMe “[Summit](https://tryhackme.com/room/summit)” Walkthrough  
 ### Chasing an Adversary up the Pyramid of Pain
 
 This write-up documents my completion of the **TryHackMe Summit lab**, where the objective is to progressively disrupt a simulated adversary by forcing them up the **Pyramid of Pain** until they abandon their campaign.
